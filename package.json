@@ -1,0 +1,26 @@
+{
+  "name": "hirelens",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@hookform/resolvers": "*",
+    "bcryptjs": "*",
+    "class-variance-authority": "*",
+    "clsx": "*",
+    "date-fns": "*",
+    "fuzzball": "*",
+    "lucide-react": "*",
+    "mammoth": "*",
+    "mongoose": "*",
+    "next-auth": "^4.24.11",
+    "next-themes": "*",
+    "openai": "*",
+    "rate-limiter-flexible": "*",
+    "react-hook-form": "*",
+    "recharts": "*",
+    "sonner": "*",
+    "tailwind-merge": "*",
+    "unpdf": "*",
+    "zod": "*"
+  }
+}
