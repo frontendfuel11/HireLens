@@ -12,15 +12,24 @@
     "lucide-react": "*",
     "mammoth": "*",
     "mongoose": "*",
+    "next": "*",
     "next-auth": "^4.24.11",
     "next-themes": "*",
     "openai": "*",
     "rate-limiter-flexible": "*",
+    "react": "*",
+    "react-dom": "*",
     "react-hook-form": "*",
     "recharts": "*",
     "sonner": "*",
     "tailwind-merge": "*",
     "unpdf": "*",
     "zod": "*"
+  },
+  "devDependencies": {
+    "@types/node": "*",
+    "@types/react": "*",
+    "@types/react-dom": "*",
+    "typescript": "*"
   }
 }
